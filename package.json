@@ -1,0 +1,22 @@
+{
+  "name": "vue-cli-plugin-vue-press",
+  "version": "1.0.7",
+  "description": "vue-cli 3 plugin to add vue-cli-plugin-zip-version",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/youpenglai/vue-cli-plugin-zip-version.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/youpenglai/vue-cli-plugin-zip-version/issues"
+  },
+  "homepage": "https://github.com/youpenglai/vue-cli-plugin-zip-version#readme",
+  "dependencies": {
+    "cross-spawn": "^6.0.5"
+  }
+}
