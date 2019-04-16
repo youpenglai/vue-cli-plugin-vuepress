@@ -1,6 +1,6 @@
 {
   "name": "vue-cli-plugin-vue-press",
-  "version": "1.0.7",
+  "version": "0.0.1",
   "description": "vue-cli 3 plugin to add vue-cli-plugin-zip-version",
   "main": "index.js",
   "scripts": {
