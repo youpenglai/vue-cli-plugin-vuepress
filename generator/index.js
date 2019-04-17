@@ -1,7 +1,8 @@
 module.exports = (api, opts, rootOptions) => {
   api.extendPackage({
     devDependencies: {
-      "vuepress": "^0.10.0"
+      "vuepress": "^0.10.0",
+      "webpack-dev-middleware": "3.6.0"
     }
   });
 
