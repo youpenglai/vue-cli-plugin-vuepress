@@ -1,7 +1,7 @@
 module.exports = {
   title: "朋来前端 开发规范&文档积累",
   description: "前端开发规范, 朋来前端, 朋来互动, 文档资产",
-  dest: 'dist-docs',
+  dest: 'docs-dist',
 
   themeConfig: {
     repo: 'xxx',
