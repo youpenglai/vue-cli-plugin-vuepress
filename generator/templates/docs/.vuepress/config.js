@@ -17,9 +17,9 @@ module.exports = {
           ['core', '核心业务'],
           ['deploy', '项目部署'],
           ['tech', '项目架构'],
-          ['commit', '代码提交规范'],
           ['QA', '现存问题'],
           ['version', '版本历史'],
+          ['commit', '代码提交规范'],
           ['aboutMe', '文档编辑指南']
         ]
       }
