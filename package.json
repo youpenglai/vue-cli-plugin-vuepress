@@ -1,6 +1,6 @@
 {
   "name": "vue-cli-plugin-ypl-vuepress",
-  "version": "0.0.3",
+  "version": "1.0.0",
   "description": "vue-cli 3 plugin to add vue-cli-plugin-vuepress",
   "main": "index.js",
   "scripts": {

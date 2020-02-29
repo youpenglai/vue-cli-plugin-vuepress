@@ -1,6 +1,6 @@
 module.exports = {
-  title: "朋来前端 开发规范&文档积累",
-  description: "前端开发规范, 朋来前端, 朋来互动, 文档资产",
+  title: "产品中心-项目文档",
+  description: "项目文档",
   dest: 'docs-dist',
 
   themeConfig: {
@@ -14,9 +14,13 @@ module.exports = {
         title: "项目说明文档",
         collapsable: false,
         children: [
-          ['deploy', '部署说明文档'],
-          ['version', '版本更新说明'],
-          ['core', '核心业务说明']
+          ['core', '核心业务'],
+          ['version', '版本更新'],
+          ['deploy', '项目部署'],
+          ['tech', '项目架构'],
+          ['commit', '代码提交规范'],
+          ['QA', '尚存问题'],
+          ['aboutMe', '关于我']
         ]
       }
     ]
