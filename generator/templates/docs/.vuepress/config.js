@@ -1,5 +1,5 @@
 module.exports = {
-  title: "产品中心-项目文档",
+  title: "产品中心-项目总结文档",
   description: "项目文档",
   dest: 'docs-dist',
 
@@ -15,12 +15,12 @@ module.exports = {
         collapsable: false,
         children: [
           ['core', '核心业务'],
-          ['version', '版本更新'],
           ['deploy', '项目部署'],
           ['tech', '项目架构'],
           ['commit', '代码提交规范'],
-          ['QA', '尚存问题'],
-          ['aboutMe', '关于我']
+          ['QA', '现存问题'],
+          ['version', '版本历史'],
+          ['aboutMe', '文档编辑指南']
         ]
       }
     ]

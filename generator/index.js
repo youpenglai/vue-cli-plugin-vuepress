@@ -11,7 +11,7 @@ module.exports = (api, opts, rootOptions) => {
     './docs/core.md': './templates/docs/core.md',
     './docs/commit.md': './templates/docs/commit.md',
     './docs/deploy.md': './templates/docs/deploy.md',
-    './docs/QA.md': './templates/docs/commit.md',
+    './docs/QA.md': './templates/docs/QA.md',
     './docs/version.md': './templates/docs/version.md',
     './docs/README.md': './templates/docs/README.md',
     './docs/aboutMe.md': './templates/docs/aboutMe.md',
